@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D8277DA-4DD5-495C-B838-C013F7EF6DEE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aclaraciones.My.MyApplication</StartupObject>
+    <RootNamespace>Aclaraciones</RootNamespace>
+    <AssemblyName>Aclaraciones</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Users\zcruz\Videos\acalaraciones 2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aclaraciones.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aclaraciones.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EF825F943E95118661CE6A58E4DFDBA261BB55E0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Aclaraciones_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.68.1.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.0.5022.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.1.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.PowerPacks" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="claveaclaracionnuevo.Designer.vb">
+      <DependentUpon>claveaclaracionnuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="claveaclaracionnuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Claves-aclaracion.Designer.vb">
+      <DependentUpon>Claves-aclaracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Claves-aclaracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comprasmasivo.Designer.vb">
+      <DependentUpon>comprasmasivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="comprasmasivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diferenciasmasivo.Designer.vb">
+      <DependentUpon>diferenciasmasivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="diferenciasmasivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facturasmasivo.Designer.vb">
+      <DependentUpon>facturasmasivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="facturasmasivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resumen-personadiferencias.Designer.vb">
+      <DependentUpon>resumen-personadiferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resumen-personadiferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrocompras.Designer.vb">
+      <DependentUpon>registrocompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registrocompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informacion.designer.vb">
+      <DependentUpon>Informacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Informacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablacompras.Designer.vb">
+      <DependentUpon>tablacompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablacompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resumendiferencias.Designer.vb">
+      <DependentUpon>resumendiferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resumendiferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Origen de Datos.Designer.vb">
+      <DependentUpon>Origen de Datos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Origen de Datos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resumen-persona.Designer.vb">
+      <DependentUpon>resumen-persona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resumen-persona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resumenfacturas.Designer.vb">
+      <DependentUpon>resumenfacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resumenfacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablaotros.Designer.vb">
+      <DependentUpon>tablaotros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablaotros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tabladiferencias.Designer.vb">
+      <DependentUpon>tabladiferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tabladiferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrootros.Designer.vb">
+      <DependentUpon>registrootros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registrootros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrodiferencias.Designer.vb">
+      <DependentUpon>registrodiferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registrodiferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosPortal.Designer.vb">
+      <DependentUpon>DatosPortal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatosPortal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facturasregistro.Designer.vb">
+      <DependentUpon>facturasregistro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="facturasregistro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modulo.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="tablafacturas.Designer.vb">
+      <DependentUpon>tablafacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablafacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="claveaclaracionnuevo.resx">
+      <DependentUpon>claveaclaracionnuevo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Claves-aclaracion.resx">
+      <DependentUpon>Claves-aclaracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comprasmasivo.resx">
+      <DependentUpon>comprasmasivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diferenciasmasivo.resx">
+      <DependentUpon>diferenciasmasivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facturasmasivo.resx">
+      <DependentUpon>facturasmasivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resumen-personadiferencias.resx">
+      <DependentUpon>resumen-personadiferencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrocompras.resx">
+      <DependentUpon>registrocompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informacion.resx">
+      <DependentUpon>Informacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablacompras.resx">
+      <DependentUpon>tablacompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resumendiferencias.resx">
+      <DependentUpon>resumendiferencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Origen de Datos.resx">
+      <DependentUpon>Origen de Datos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resumen-persona.resx">
+      <DependentUpon>resumen-persona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resumenfacturas.resx">
+      <DependentUpon>resumenfacturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablaotros.resx">
+      <DependentUpon>tablaotros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabladiferencias.resx">
+      <DependentUpon>tabladiferencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrootros.resx">
+      <DependentUpon>registrootros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrodiferencias.resx">
+      <DependentUpon>registrodiferencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosPortal.resx">
+      <DependentUpon>DatosPortal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facturasregistro.resx">
+      <DependentUpon>facturasregistro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablafacturas.resx">
+      <DependentUpon>tablafacturas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Aclaraciones_TemporaryKey.pfx" />
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_Yes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favorite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delicious_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_download_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

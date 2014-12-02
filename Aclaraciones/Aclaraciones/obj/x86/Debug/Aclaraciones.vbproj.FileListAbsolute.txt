@@ -1,0 +1,169 @@
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\bin\Debug\Aclaraciones.exe
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\bin\Debug\Aclaraciones.pdb
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\bin\Debug\Aclaraciones.xml
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\Aclaraciones.Form1.resources
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\Aclaraciones.Resources.resources
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\Aclaraciones.exe
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\Aclaraciones.xml
+d:\usuarios\zcruz\AppData\Local\Temporary Projects\Aclaraciones\obj\x86\Debug\Aclaraciones.pdb
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.xml
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.pdb
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.pdb
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.xml
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Resources.resources
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.DatosPortal.resources
+d:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Principal.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Claves_aclaracion.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablafacturas.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasregistro.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablaotros.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tabladiferencias.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.claveaclaracionnuevo.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrootros.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrodiferencias.resources
+D:\usuarios\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Rango_de_Consulta.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.xml
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.pdb
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.pdb
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.xml
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.claveaclaracionnuevo.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Claves_aclaracion.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Rango_de_Consulta.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablaotros.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tabladiferencias.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrootros.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrodiferencias.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.DatosPortal.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasregistro.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Principal.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Resources.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablafacturas.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbprojResolveAssemblyReference.cache
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbproj.GenerateResource.Cache
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersona.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Origen_de_Datos.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumendiferencias.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Informacion.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablacompras.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrocompras.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersonadiferencias.resources
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.config
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.manifest
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.application
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe.manifest
+D:\Users\zcruz\Downloads\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.application
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.config
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.xml
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.pdb
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.manifest
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.application
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.pdb
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.xml
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbprojResolveAssemblyReference.cache
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.claveaclaracionnuevo.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Claves_aclaracion.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersonadiferencias.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrocompras.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Informacion.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablacompras.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumendiferencias.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Origen_de_Datos.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersona.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Rango_de_Consulta.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablaotros.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tabladiferencias.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrootros.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrodiferencias.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.DatosPortal.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasregistro.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Principal.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Resources.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablafacturas.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbproj.GenerateResource.Cache
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe.manifest
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.application
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasmasivo.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.diferenciasmasivo.resources
+D:\Users\zcruz\Downloads\Nueva carpeta\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.comprasmasivo.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.config
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.xml
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.pdb
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbprojResolveAssemblyReference.cache
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.claveaclaracionnuevo.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Claves_aclaracion.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.comprasmasivo.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.diferenciasmasivo.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasmasivo.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersonadiferencias.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrocompras.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Informacion.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablacompras.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumendiferencias.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Origen_de_Datos.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersona.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Rango_de_Consulta.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablaotros.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tabladiferencias.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrootros.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrodiferencias.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.DatosPortal.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasregistro.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Principal.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Resources.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablafacturas.resources
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbproj.GenerateResource.Cache
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.manifest
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.application
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.pdb
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.xml
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe.manifest
+D:\Users\zcruz\Downloads\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.application
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.config
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.xml
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.pdb
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe.manifest
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.application
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.exe
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.pdb
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\bin\Debug\Aclaraciones.xml
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbprojResolveAssemblyReference.cache
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.claveaclaracionnuevo.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Claves_aclaracion.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.comprasmasivo.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.diferenciasmasivo.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasmasivo.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersonadiferencias.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrocompras.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Informacion.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablacompras.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumendiferencias.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Origen_de_Datos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.resumenpersona.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Rango_de_Consulta.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablaotros.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tabladiferencias.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrootros.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.registrodiferencias.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.DatosPortal.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.facturasregistro.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Principal.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.Resources.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.tablafacturas.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.vbproj.GenerateResource.Cache
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.exe.manifest
+D:\ZENEN\DESARROLLOS\DESARROLLO ACLARACIONES\Aclaraciones\Aclaraciones\obj\x86\Debug\Aclaraciones.application
